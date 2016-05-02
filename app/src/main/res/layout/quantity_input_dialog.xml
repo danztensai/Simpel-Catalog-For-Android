@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Enter Quantity"
+        android:id="@+id/textView5"
+        android:layout_gravity="center" />
+
+    <EditText
+        android:id="@+id/quantityText"
+        android:layout_width="62dp"
+        android:layout_height="wrap_content"
+        android:hint=""
+        android:padding="10dp"
+        android:inputType="number"
+        android:layout_gravity="center" />
+</LinearLayout>

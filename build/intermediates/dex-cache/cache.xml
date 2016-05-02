@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bf7cdeddbe7e8694bc5f58e7ed619f45fa2ce4c0">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0d31c8b54080f03662e8cb6df6066d534204ba2f\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\libs\trace.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="25bc0a30b13874fd49d529778c0c78cbe7225878">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\2\trace_e819114da2b62d6453135823e5d1e71a722ea916\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\libs\gson-2.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.3.1_4d19b4eb52395a6b0d0cd332423c5f7667a351c8\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.1.1_9401af7ba394c67cfe50185643d8418b7562ef6d\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.1.59\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-3.1.59_774dcfe11da8833636a025e123a4ef00c3c7eab4\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\jars\libs\internal_impl-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.1.1_1c1b4aa2da0e75e36b916e8a01e5a91d72c80004\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Danz\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_c14958ac85c9c9c91d389287e8d0c10d5b8d6895\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\libs\acra-4.6.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="60a854db6e9445f56efc72bfb3da39f583eb6e89">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\2\acra-4.6.1_f4c58ba340242f3879e80c38b1ada22511591307\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="17a1e6c0bf518a232f116cbe18677a2728e53396">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_138aaa8296e8da742e4eccc4cac3787aeab51e36\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.1.1_385855d168ded130652c95a81315a7cb3b881e16\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_fe30bcec2dd331a1525ba8b6822bc17b0c9f80f2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\SDKAndroidSTUDIO\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.1.1_a695b5c57c522fefd531f937f4b07bc5eae26c22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Danz\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.4\dd9eeb557650c4ad7394df23f0f5cf27a7cfc697\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\universal-image-loader-1.9.4_9a41a0bac214ae84bec2fc7fcd85214ec85a2472\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cf9754bfa8484f88f26e45d28fe298daa544d4f0">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mcxiaoke.volley-library-aar-1.0.1_dafd68493a7f198458f1e0ab60e26e0f0e650647\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Danz\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_5c98b64e3abfed681af410633c98213413d336e2\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.4_b8e452c17d34319b7d228c36382623e1c52ff41b\classes.dex" />
+    </item>
+    <item
+        jar="D:\Misc\androidWorkspace\Android\Modisku\app\libs\gcm.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="D:\Misc\androidWorkspace\Android\Modisku\app\build\intermediates\transforms\dex\debug\folders\1000\2\gcm_cf995fa9d9dbd9878477ab4e75a67d4853dccdf7\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:background="#FFFFFF">
+
+    <TextView android:id="@+id/TextView01" android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:textColor="#000000"
+        android:textSize="24dip" android:layout_margin="5dip" android:text="Shopping Cart"></TextView>
+    <ListView android:layout_height="wrap_content"
+        android:layout_weight="1" android:id="@+id/ListViewCatalog"
+        android:stackFromBottom="false"
+        android:layout_alignParentTop="true"
+        android:layout_width="fill_parent" android:background="#ffffff"
+        android:clickable="true" android:cacheColorHint="#ffffff"
+        android:layout_above="@+id/buttonCheckOut">
+    </ListView>
+
+    <Button android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right" android:id="@+id/buttonCheckOut"
+        android:text="Check Out"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"></Button>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Delete Item"
+        android:id="@+id/btnDeleteCart"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

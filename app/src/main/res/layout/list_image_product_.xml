@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="5dp"
+    android:background="@drawable/list_selector"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:weightSum="1">
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <ImageView
+            android:id="@+id/productImage"
+            android:layout_width="170dp"
+            android:layout_height="120dp"
+            android:adjustViewBounds="true"
+            android:layout_weight="20.40"
+            android:scaleType="fitXY"/>
+
+        <ImageView
+            android:id="@+id/iconNewProduct"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/label_new_yellow"/>
+    </FrameLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Product Title"
+        android:id="@+id/productTitleImage"
+        android:textAlignment="center"
+        android:gravity="center"/>
+
+    <ProgressBar
+        android:id="@+id/progress"
+        style="@style/ProgressBarStyle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:indeterminate="false"
+        android:max="100" />
+
+
+</LinearLayout>
